@@ -1,0 +1,9 @@
+uri "http://sadl.org/Git4SADL/Git4SADLroute1" alias GSADLr1. 
+
+import "http://sadl.org/Git4SADL/Git4SADLmain".
+
+aa is a AA.
+bb is a BB.
+cc is a CC.
+
+// End of File
