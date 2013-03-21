@@ -30,6 +30,14 @@ local.properties
 
 
 #################
+## SADL (in Eclipse)
+#################
+
+## Ignore OwlModels folder (since they are irreversible)
+
+OwlModels/
+
+#################
 ## Visual Studio
 #################
 
